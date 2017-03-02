@@ -25,7 +25,7 @@ None
 |[getItem(key: string)](#getitemkey-string)|[Setting](setting.md)|Gets a setting object by its key, which is case-sensitive. Throws if the setting does not exist.|[1.4](../requirement-sets/word-api-requirement-sets.md)|
 |[getItemOrNullObject(key: string)](#getitemornullobjectkey-string)|[Setting](setting.md)|Gets a setting object by its key, which is case-sensitive. Returns a null object if the setting does not exist.|[1.4](../requirement-sets/word-api-requirement-sets.md)|
 |[load(param: object)](#loadparam-object)|void|Fills the proxy object created in JavaScript layer with property and object values specified in the parameter.|[1.1](../requirement-sets/word-api-requirement-sets.md)|
-|[add(key: string, value: object)](#addkey-string-value-object)|[Setting](setting.md)|Creates or sets a setting.|[1.4](../requirement-sets/word-api-requirement-sets.md)|
+|[add(key: string, value: object)](#addkey-string-value-object)|[Setting](setting.md)|Creates a new setting.|[1.4](../requirement-sets/word-api-requirement-sets.md)|
 
 ## Method Details
 
