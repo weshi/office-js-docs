@@ -10,7 +10,7 @@ In order to try the Preview APIs please make sure to:
 3. Code and provide feedback!!!
 
 
-## Introduction to Word JavaScript API 1.3 
+## Introduction to Word JavaScript API 1.4
 
 This section describes the new set of Word JavaScript APIs that are planned for the next release (requirement set 1.3). To provide feedback on the new APIs, use the links in the following table to open issues in GitHub. 
 
