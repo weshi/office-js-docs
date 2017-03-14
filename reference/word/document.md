@@ -44,7 +44,7 @@ documentObject.deleteBookmark(name);
 
 #### Parameters
 | Parameter	   | Type	|Description|
-|:---------------|:--------|:----------|:---|
+|:---------------|:--------|:----------|
 |name|string|Required. The bookmark name, which is case-insensitive.|
 
 #### Returns
@@ -60,7 +60,7 @@ documentObject.getBookmarkRange(name);
 
 #### Parameters
 | Parameter	   | Type	|Description|
-|:---------------|:--------|:----------|:---|
+|:---------------|:--------|:----------|
 |name|string|Required. The bookmark name, which is case-insensitive.|
 
 #### Returns
@@ -76,7 +76,7 @@ documentObject.getBookmarkRangeOrNullObject(name);
 
 #### Parameters
 | Parameter	   | Type	|Description|
-|:---------------|:--------|:----------|:---|
+|:---------------|:--------|:----------|
 |name|string|Required. The bookmark name, which is case-insensitive.|
 
 #### Returns
@@ -139,7 +139,7 @@ object.load(param);
 
 #### Parameters
 | Parameter	   | Type	|Description|
-|:---------------|:--------|:----------|:---|
+|:---------------|:--------|:----------|
 |param|object|Optional. Accepts parameter and relationship names as delimited string or an array. Or, provide [loadOption](loadoption.md) object.|
 
 #### Returns
