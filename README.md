@@ -6,7 +6,7 @@ Welcome to the Word JavaScript API open specification documentation. The Word Ja
 To try the preview APIs, make sure to: 
 
 1. Get on the First Release so you can get the latest version of Word. For details, see [Install the latest version of Office](https://dev.office.com/docs/add-ins/develop/install-latest-office-version).
-2. Use the PREVEW CDN for OFfice.js:https://appsforoffice.microsoft.com/lib/beta/hosted/office.js
+2. Use the PREVEW CDN for OFfice.js: https://appsforoffice.microsoft.com/lib/beta/hosted/office.js
 3. Code and provide feedback!
 
 
