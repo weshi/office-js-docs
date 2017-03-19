@@ -3,11 +3,11 @@
 
 Welcome to the Word JavaScript API open specification documentation. The Word JavaScript API provides Word-specific functionality related to documents, paragraphs, content controls, and other common Word objects. This API complements the functionality of our existing Office.js library. This branch documents the new APIs that our team is working on and plans to ship in the next few months.
 
-In order to try the Preview APIs please make sure to: 
+To try the preview APIs, make sure to: 
 
-1. Get on the First Release so you can get the latest Word! Follow the instructions here: https://github.com/OfficeDev/office-js-docs/blob/215f5d35490c943cc06c29b98357ba8cb034ec81/docs/develop/install-latest-office-version.md
+1. Get on the First Release so you can get the latest version of Word. For details, see [Install the latest version of Office](https://dev.office.com/docs/add-ins/develop/install-latest-office-version).
 2. Use the PREVEW CDN for OFfice.js:https://appsforoffice.microsoft.com/lib/beta/hosted/office.js
-3. Code and provide feedback!!!
+3. Code and provide feedback!
 
 
 ## Introduction to Word JavaScript API 1.4
@@ -53,10 +53,10 @@ _**Note**: The features listed are still in the design and review phase and are 
 _**Note**: This feature is not currently available for new features._
 
 
-We've been working on a Snippet Explorer that you can use to browse through common code snippets and learn how the new APIs work. Give it a try. You can find the code snippets referenced by the Snippet Explorer at [Office 2016 JavaScript API Snippet Explorer (Preview)](reference/word/https://officesnippetexplorer.azurewebsites.net/#/snippets/word). 
+We've been working on a Snippet Explorer that you can use to browse through common code snippets and learn how the new APIs work. Give it a try. You can find the code snippets referenced by the Snippet Explorer at [Office 2016 JavaScript API Snippet Explorer (Preview)](https://officesnippetexplorer.azurewebsites.net/#/snippets/word). 
 
 ## Give feedback
 
-We need it, you want to give it. Feedback is much easier to give now that we're on GitHub. Check out the docs and let us know your feedback by submitting [issues](reference/word/https://github.com/OfficeDev/office-js-docs/issues) directly in this repository. 
+We need it, you want to give it. Feedback is much easier to give now that we're on GitHub. Check out the docs and let us know your feedback by submitting [issues](https://github.com/OfficeDev/office-js-docs/issues) directly in this repository. 
 
-For API support, you can post questions to the community on [StackOverflow](reference/word/http://stackoverflow.com/questions/tagged/office-js) and tag them with [office-js] and [word].
+For API support, you can post questions to the community on [StackOverflow](http://stackoverflow.com/questions/tagged/office-js) and tag them with [office-js] and [word].
