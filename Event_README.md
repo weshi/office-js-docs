@@ -8,11 +8,6 @@ _Details of the specific APIs are listed below. Please let us know what you thin
 
 |Object| What is new| Description |Requirement set|
 |:----|:----|:----|:----|
-|[registerEventPostProcessAction](reference/excel/registereventpostprocessaction.md)|_Property_ > actionType|Gets the top border Possible values are: None, RegisterEvent, UnregisterEvent, CustomFunction, ShowCard.|Beta|
-|[registerEventPostProcessAction](reference/excel/registereventpostprocessaction.md)|_Property_ > message|Transmits additional data to client side, e.g., worksheetId for TableSelectionChangedEvent.|Beta|
-|[registerEventPostProcessAction](reference/excel/registereventpostprocessaction.md)|_Property_ > messageType|Gets the top border Possible values are: None, RegisterEvent, UnregisterEvent, CustomFunction, ShowCard.|Beta|
-|[registerEventPostProcessAction](reference/excel/registereventpostprocessaction.md)|_Property_ > targetId|Gets the top border Possible values are: None, RegisterEvent, UnregisterEvent, CustomFunction, ShowCard.|Beta|
-|[registerEventPostProcessAction](reference/excel/registereventpostprocessaction.md)|_Relationship_ > controlId|Gets the top border Possible values are: None, RegisterEvent, UnregisterEvent, CustomFunction, ShowCard.|Beta|
 |[tableDataChangedEvent](reference/excel/tabledatachangedevent.md)|_Property_ > address|Gets the address that represents the changed area of a table on a specific worksheet.|Beta|
 |[tableDataChangedEvent](reference/excel/tabledatachangedevent.md)|_Property_ > changeType|Gets the change type that represents how the DataChanged event is triggered. Possible values are: Others, RangeEdited, RowInserted, RowDeleted, ColumnInserted, ColumnDeleted, CellInserted, CellDeleted.|Beta|
 |[tableDataChangedEvent](reference/excel/tabledatachangedevent.md)|_Property_ > source|Gets the source of the event. Possible values are: Local, Remote.|Beta|
